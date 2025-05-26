@@ -11,7 +11,7 @@ int precio_productos(int cantidad_prenda1, int cantidad_prenda2, int cantidad_pr
 	return precio_productos;
 }
 
-// Indica el precio total de los prodectos
+// Indica el número total de preoductos
 	int total_productos (int cantidad_prenda1, int cantidad_prenda2, int cantidad_prenda3){
 		int total_productos=0;
 		total_productos=cantidad_prenda1+cantidad_prenda2+cantidad_prenda3;
